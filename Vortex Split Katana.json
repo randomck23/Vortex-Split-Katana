@@ -1,0 +1,239 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            13760790008
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20handle.obj"
+        },
+        {
+          "name": "Blade Replace",
+          "replace_ids": [
+            13903792316
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20blade.obj"
+        },
+        {
+          "name": "Remove",
+          "replace_ids": [
+            13760790106
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Attack1 Replace",
+          "replace_ids": [
+            14000023581
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20slash.mp3"
+        },
+        {
+          "name": "Attack2 Replace",
+          "replace_ids": [
+            14000023392
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20slash2.mp3"
+        },
+        {
+          "name": "Deflect Replace",
+          "replace_ids": [
+            14798337918
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20deflect.mp3"
+        },
+        {
+          "name": "Ricochet Replace",
+          "replace_ids": [
+            14776437962
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/raw/refs/heads/main/void%20katana%20ricoshe.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17160801158
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/blob/main/vortex%20katana%20thumbnail.png?raw=true"
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13968137196
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split-Katana/blob/main/vortex%20katana%20thumbnail%202.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Deflect1 Replace",
+          "replace_ids": [
+            14761234917
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 137002111895907
+        },
+        {
+          "name": "Deflect2 Replace",
+          "replace_ids": [
+            14761221711
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 122933360020674
+        },
+        {
+          "name": "Deflect3 Replace",
+          "replace_ids": [
+            14761223422
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 84363873883173
+        },
+        {
+          "name": "Deflect4 Replace",
+          "replace_ids": [
+            14761225204
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 132079943418107
+        },
+        {
+          "name": "Deflect5 Replace",
+          "replace_ids": [
+            14761232380
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 127119144354477
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            13992707294
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 77096550681050
+        },
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            13992711211
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 111194880127618
+        },
+        {
+          "name": "Deflect Idle Replace",
+          "replace_ids": [
+            14761220206
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 75381142568185
+        },
+        {
+          "name": "Attack1 Replace",
+          "replace_ids": [
+            13992724397
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 135568679262740
+        },
+        {
+          "name": "Attack2 Replace",
+          "replace_ids": [
+            13992729204
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 108599900012367
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            13992715669
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 140473852199966
+        },
+        {
+          "name": "Inspect Rare Replace",
+          "replace_ids": [
+            14411504784
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 130798346363525
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Credihs",
+      "expanded": true,
+      "children": [
+        {
+          "name": "@kafux (The GOAT?)",
+          "replace_ids": [],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "https://discord.com/channels/1309760132770693181/1520291746133577869",
+          "replace_ids": [],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
