@@ -1,7 +1,7 @@
 # Blender 5.2.0 LTS
 # www.blender.org
 mtllib void katana blade.mtl
-o Void Katana Blade
+o Void-Katana-Blade
 v -0.060524 -1.292413 0.069982
 v -0.105138 -1.254863 0.133837
 v -0.113312 -1.291445 0.120024
